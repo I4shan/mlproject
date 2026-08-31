@@ -3,5 +3,6 @@ pandas
 numpy
 seaborn
 catboost
-
--e .
+dill
+xgboost
+#-e .
